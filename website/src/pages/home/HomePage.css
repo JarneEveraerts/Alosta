@@ -1,0 +1,44 @@
+.welcomeWrapper {
+  background-image: url("../../img/parkFotos/ALOSTA+SKATEPARK-Aalst-001+\(6\)-1920w.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  height: 85vh;
+  width: 100%;
+  margin: 0 auto;
+}
+.welcomeContent {
+  width: 40%;
+  text-align: left;
+  justify-content: center;
+  background-color: rgba(43, 43, 43, 0.78);
+  border-radius: 25px;
+  border: 2px solid white;
+  margin-left: 5em;
+  margin-bottom: 5em;
+}
+.welcomeContent h1 {
+  width: 80%;
+  font-size: 2rem;
+  font-weight: 600;
+  color: white;
+  margin: 0 auto;
+  padding: 1em 0;
+}
+
+.contactButton {
+  width: 40%;
+  margin-left: 3em;
+  margin-bottom: 1em;
+  padding: 1em 0;
+  border-radius: 25px;
+  border: 2px solid white;
+  background-color: rgba(43, 43, 43, 1);
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+}
